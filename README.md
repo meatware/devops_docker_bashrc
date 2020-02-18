@@ -1,2 +1,4 @@
 # devops_bashrc
-slimline bashrc for DevOs
+Slimline bashrc for DevOps
+
+Tested on ubuntu 18.04
